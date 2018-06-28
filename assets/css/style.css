@@ -1,0 +1,84 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+/*============================================================
+    Project Name: Javascript Element Changer
+    Author: Humayun Ahmed
+    Author URI: https://humayunbd.com
+==============================================================*/
+
+*/
+
+
+
+/* =========================
+   Base CSS
+============================ */
+
+img {
+    max-width: 100%;
+    display: block;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 300;
+	font-family: 'Roboto', sans-serif;
+}
+html,
+body { height: 100% }
+body {
+    color: #000;
+    font-family: cursive;
+    font-size: 16px;
+	line-height:25px;
+}
+a:hover { text-decoration: none; }
+
+
+/* =========================
+   Author's custom styles
+============================ */
+
+
+div{
+    margin-top: 20px;
+    margin: 20px auto;
+}
+
+h3.section-heading{
+    font-family: cursive;
+    font-size: 18px;
+    text-align: center;
+}
+
+.style{
+    height: 200px;
+    width: 200px;
+    border: 1px solid #000;
+}
+
+.styleOne{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background: red;
+}
+
+.styleTwo{
+    height: 100px;
+    width: 200px;
+    background: green;
+    border-radius: 100px 100px 0 0;
+}
+
+.styleThree{
+    height: 200px;
+    width: 200px;
+    background: blue;
+    border-radius: 50px;
+}
+

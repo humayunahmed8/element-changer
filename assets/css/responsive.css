@@ -1,0 +1,45 @@
+/* Large devices (desktops, 992px and up) */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+	 
+
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+	
+
+} 	
+
+
+/* Moblie devices (mobile, 0px to 768px) */
+
+@media only screen and (max-width: 767px) { 
+	
+
+}
+
+
+/* Wide Mobile Layout: (480px to 767px) */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+	
+} 
+
+
+/* 
+
+	** Quick Start Pack To-DO list **
+
+    1. responsive brakpoint
+    2. devide all js offline
+    3. push css all link
+    4. w3validator check
+    5. push github 
+    6. create documentation on github
+
+
+ */
